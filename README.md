@@ -35,6 +35,12 @@ Hay únicamente dos problemas realmente duros en informática: el primero es la 
 
 ## ¿Para qué?
 
+<div align=center>
+
+![](/xQ.png)
+
+</div>
+
 ## ¿Cómo?
 
 <div align=center>
