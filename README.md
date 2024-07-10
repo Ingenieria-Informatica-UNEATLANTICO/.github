@@ -50,3 +50,9 @@ Hay únicamente dos problemas realmente duros en informática: el primero es la 
 ![](/PdE.png)
 
 </div>
+
+### Experto universitario
+
+- Ciberseguridad
+- Big data & inteligencia artificial
+
