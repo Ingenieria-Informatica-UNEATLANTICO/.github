@@ -19,8 +19,6 @@ Hay únicamente dos problemas realmente duros en informática: el primero es la 
 
 <div align=center>
 
-![](/HwSw001.png)
-
 |||
 |-|-|
 |**Computación**|Fundamentos científicos y técnicos para el diseño de soluciones a los retos de computación en inteligencia artificial, bioinformática, realidad virtual.|
