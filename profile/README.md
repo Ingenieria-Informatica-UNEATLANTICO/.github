@@ -43,11 +43,11 @@ Hay únicamente dos problemas realmente duros en informática: el primero es la 
 
 <div align=center>
 
-![](/HwSw002.png)
+![](HwSw002.png)
 
 
 
-![](/PdE.png)
+![](PdE.png)
 
 </div>
 
