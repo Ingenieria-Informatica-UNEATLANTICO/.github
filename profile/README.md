@@ -4,16 +4,12 @@
 
 > *En electrónica y en áreas relacionadas de la ingeniería, los conocimientos se duplican entre cada dos años y medio a tres años; así que diez años después de licenciarse, un ingeniero de 32 años se encuentra ejerciendo en un mundo en el que un 80% de los conocimientos que está utilizando han sido descubiertos después de licenciarse…*
 > 
-> — Frank R Hartley, Cranfield Institute of Technology
+> — [Frank R Hartley, Cranfield Institute of Technology](https://en.wikipedia.org/wiki/Frank_Robinson_Hartley)
 
-Esta cita refleja la rápida evolución del campo de la informática y la necesidad de una formación sólida y adaptable.
-
-- "Copiar código de internet y pegarlo en un sistema para producción es como usar un chicle encontrado en la calle" — Mike Johnson
-- "El reto principal de los científicos informáticos es no confundirse con la complejidad de su propia creación" — E. W. Dijkstra
+- "Copiar código de internet y pegarlo en un sistema para producción es como usar un chicle encontrado en la calle" — [Mike Johnson](https://en.wikipedia.org/wiki/Mike_Johnson_(technologist))
+- "El reto principal de los científicos informáticos es no confundirse con la complejidad de su propia creación" — [E. W. Dijkstra](https://es.wikipedia.org/wiki/Edsger_Dijkstra)
 - "Primero resuelve el problema. Entonces, escribe el código" — John Johnson
-- "Hay únicamente dos problemas realmente duros en informática: el primero es la invalidación de cachés, y el segundo darles nombres apropiados a las cosas" — Phil Karlton, Netscape
-
-Estas citas subrayan la importancia de la comprensión profunda, el pensamiento crítico y la resolución de problemas en la informática.
+- "Hay únicamente dos problemas realmente duros en informática: el primero es la invalidación de cachés, y el segundo darles nombres apropiados a las cosas" — [Phil Karlton, Netscape](https://www.karlton.org/karlton/)
 
 ## ¿Qué?
 
@@ -28,13 +24,14 @@ Estas citas subrayan la importancia de la comprensión profunda, el pensamiento 
 
 La formación en Ingeniería Informática prepara a los estudiantes para:
 
-- Desarrollar soluciones tecnológicas innovadoras
-- Gestionar proyectos de software complejos
-- Diseñar y mantener infraestructuras de TI
-- Analizar y optimizar sistemas de información
-- Investigar en áreas de vanguardia como IA y computación cuántica
+- Desarrollar soluciones tecnológicas efectivas.
+- Gestionar proyectos de software **complejos**.
+- Analizar y optimizar sistemas de información.
 
 ## ¿Cómo?
+
+- [Reflexion previa](reflexion.md)
+- [Responsabilidad](responsabilidad.md)
 
 <div align=center>
 
@@ -60,16 +57,12 @@ El programa se estructura en cuatro años, combinando teoría y práctica:
 
 ### Metodología de enseñanza
 
-- Clases teóricas y prácticas de laboratorio
-- Proyectos en equipo que simulan entornos profesionales reales
-- Prácticas en empresas para ganar experiencia laboral
-- Trabajo fin de grado para integrar todos los conocimientos adquiridos
+- Clases teóricas y prácticas de laboratorio.
+- Proyectos en equipo que simulan entornos profesionales reales.
+- Prácticas en empresas para ganar experiencia laboral.
+- Trabajo fin de grado para integrar todos los conocimientos adquiridos.
 
 ### Especializaciones
 
 - Ciberseguridad
 - Big data & inteligencia artificial
-
-## Conclusión
-
-El grado en Ingeniería Informática ofrece una formación completa y versátil, preparando a los estudiantes para enfrentar los desafíos tecnológicos del futuro y liderar la innovación en diversos sectores.
