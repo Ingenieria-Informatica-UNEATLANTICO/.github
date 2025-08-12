@@ -48,17 +48,25 @@ La formación en Ingeniería Informática prepara a los estudiantes para:
 - **Desarrollar soluciones tecnológicas efectivas** con pensamiento sistémico
 - **Gestionar proyectos de software complejos** usando metodologías modernas
 - **Analizar y optimizar sistemas de información** a gran escala
-- **L../images/HwSw003.pngpos técnicos** en entornos de cambio constante
+- **Liderar equipos técnicos** en entornos de cambio constante
 - **Adaptarse a nuevas tecnologías** con fundamentos sólidos
 
 ## ¿Cómo?
+
+|Ingeniería|Desarrollo|Construcción|Conexión|
+|-|-|-|-|
+|*Fundamentos científicos y matemáticos*|*Competencias técnicas*|*Metodologías y gestión profesional*|*Contexto y transversalidad*
+|Base sólida para razonamiento lógico y resolución de problemas|Programación, estructuras de datos, bases de datos, desarrollo web|Ingeniería y arquitectura de software, gestión de proyectos|Teoría computacional, tecnologías emergentes, ética, idiomas
+|Matemáticas, física, estadística, métodos numéricos, redes|Habilidades prácticas de construcción de software|Cómo organizar, planificar y liderar desarrollos complejos|Cultura general informática y habilidades complementarias
+|El cimiento científico que sostiene todo lo demás|Las herramientas directas para crear tecnología|El pensamiento sistémico para gestionar la complejidad|El pegamento que conecta la técnica con el contexto profesional
 
 |![](/images/profile/malla.svg)
 |:-:
 |**Malla curricular**: progresión de fundamentos a especialización
 |***Ingeniería*** da el rigor, ***Desarrollo*** las herramientas, ***Construcción*** la metodología y ***Conexión*** el contexto profesional
 
-El programa implementa una **progresión pedagógica científicamente diseñada** basada en los principios de:
+
+El programa implementa una **progresión pedagógica** basada en los principios de:
 
 ### Conocimiento
 
@@ -93,11 +101,13 @@ La complejidad se introduce **gradualmente** evitando sobrecarga cognitiva.
 ### Metodologías distribuidas en el tiempo
 
 - **ISW1** (2º año): Fundamentos de ingeniería de software
-- **ISW2** (3º año): Metodologías avanzadas y arquitecturas
+- **ISW2** (3º año): Metodologías avanzadas
+- **ASW**: Arquitecturas
 - Maduración progresiva de conceptos
 
-### Web con base sólida
+### Desarrollo y web con base sólida
 
+- Al menos una asignatura de desarrollo por semestre.
 - **PW1 → PW2**: Desarrollo web después de estructuras y BBDD
 - Fundamentos técnicos antes de especialización
 - Aplicación práctica de principios teóricos
