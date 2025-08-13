@@ -2,8 +2,6 @@
 
 ## ¿Por qué?
 
-### Contexto de cambio acelerado
-
 > *En electrónica y en áreas relacionadas de la ingeniería, los conocimientos se duplican entre cada dos años y medio a tres años; así que diez años después de licenciarse, un ingeniero de 32 años se encuentra ejerciendo en un mundo en el que un 80% de los conocimientos que está utilizando han sido descubiertos después de licenciarse…*
 > 
 > — [Frank R Hartley, Cranfield Institute of Technology](https://en.wikipedia.org/wiki/Frank_Robinson_Hartley)
@@ -12,7 +10,7 @@
 
 - "Copiar código de internet y pegarlo en un sistema para producción es como usar un chicle encontrado en la calle" — [Mike Johnson](https://en.wikipedia.org/wiki/Mike_Johnson_(technologist))
 - "El reto principal de los científicos informáticos es no confundirse con la complejidad de su propia creación" — [E. W. Dijkstra](https://es.wikipedia.org/wiki/Edsger_Dijkstra)
-- "Primero resuelve el problema. Entonces, escribe el código" — John Johnson
+- "Primero resuelve el problema. Entonces, escribe el código" — *John Johnson / John Doe / Fulano de Tal / (?)*
 - "Hay únicamente dos problemas realmente duros en informática: el primero es la [invalidación de cachés](https://surfingcomplexity.blog/2022/11/25/cache-invalidation-really-is-one-of-the-hardest-things-in-computer-science/), y el segundo darles nombres apropiados a las cosas" — [Phil Karlton, Netscape](https://www.karlton.org/karlton/)
 
 ### Reflexión
@@ -74,7 +72,7 @@ Cada nivel construye sobre el anterior con conexiones explícitas:
 
 1. **Fundamentos** → Disciplinas del software (FPYSW)
 2. **Organización** → Procesos de desarrollo (ISW1 → ISW2 → ASW)  
-3. **Aplicación** → Sistemas e infraestructura (EDA, BD)
+3. **Aplicación** → Sistemas e infraestructura (PRG, EDA, BD)
 4. **Especialización** → Aplicaciones web y proyectos (PW1 → PW2 → TFG)
 
 ### Iteración
@@ -169,14 +167,12 @@ El programa sigue la **progresión natural de las disciplinas del software**: un
 
 ### Especializaciones
 
-#### Ciberseguridad
+<div align=center>
 
-- Seguridad en desarrollo de software
-- Arquitecturas seguras
-- Gestión de riesgos tecnológicos
+|Ciberseguridad|Big data & inteligencia artificial|
+|-|-|
+|Seguridad en desarrollo de software|Sistemas de datos a gran escala
+|Arquitecturas seguras|Algoritmos de machine learning
+|Gestión de riesgos tecnológicos|Arquitecturas de procesamiento distribuido
 
-#### Big data & inteligencia artificial
-
-- Sistemas de datos a gran escala
-- Algoritmos de machine learning
-- Arquitecturas de procesamiento distribuido
+</div>
