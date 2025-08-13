@@ -2,9 +2,14 @@
 
 ## ¿Por qué?
 
-> *En electrónica y en áreas relacionadas de la ingeniería, los conocimientos se duplican entre cada dos años y medio a tres años; así que diez años después de licenciarse, un ingeniero de 32 años se encuentra ejerciendo en un mundo en el que un 80% de los conocimientos que está utilizando han sido descubiertos después de licenciarse…*
-> 
-> — [Frank R Hartley, Cranfield Institute of Technology](https://en.wikipedia.org/wiki/Frank_Robinson_Hartley)
+<div align=center>
+
+|80s|Hoy...|
+|-|-|
+|*En electrónica y en áreas relacionadas de la ingeniería, los conocimientos se duplican entre cada dos años y medio a tres años; así que diez años después de licenciarse, un ingeniero de 32 años se encuentra ejerciendo en un mundo en el que un 80% de los conocimientos que está utilizando han sido descubiertos después de licenciarse…*|*En las áreas más dinámicas de la ingeniería y la tecnología, el volumen de conocimiento práctico y relevante puede duplicarse en solo 12 a 18 meses —y en campos como la inteligencia artificial, en menos de un año—. Así, apenas una década después de graduarse, un ingeniero se encuentra trabajando con un conjunto de herramientas, tecnologías y procedimientos de los cuales más del 80 % no existían, o no tenían uso generalizado, el año en que terminó su formación universitaria.*
+|— [Frank R Hartley, Cranfield Institute of Technology](https://en.wikipedia.org/wiki/Frank_Robinson_Hartley)|[Justificación](cambioConocimientoTecnico.md)
+
+</div>
 
 ### Principios rectores
 
