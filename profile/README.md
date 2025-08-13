@@ -94,15 +94,21 @@ La complejidad se introduce **gradualmente** evitando sobrecarga cognitiva.
 
 El programa sigue la **progresión natural de las disciplinas del software**: una transición estructurada desde la comprensión del mundo real hasta la puesta en producción.
 
-```
-Mundo Real → Caja Negra → Caja Blanca → Tecnología → Producción
-     ↓            ↓            ↓            ↓            ↓
-  Dominio → Requisitos → Análisis → Diseño → Implementación → Despliegue
-```
+<div align=center>
+
+|Mundo real|→|Caja negra|→|Caja blanca|→|Tecnología|→|Producción|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|Dominio|→|Requisitos|→|Análisis|→|Diseño<br>Implementación<br>Pruebas|→|Despliegue|
+
+</div>
 
 #### Filosofía de la disciplina
 
-> *"Software is sacred. Important things require ritual. One does not become a software master by learning a list of heuristics. Professionalism and mastery come from values that drive disciplines."*
+> *El software es sagrado*
+>
+> *y lo importante requiere de un ritual*
+>
+> *Uno no se convierte en un maestro del software aprendiendo una lista de heurísticas. El profesionalismo y la maestría provienen de valores que impulsan las disciplinas*
 
 - **FPYSW**: Establece los valores y la disciplina desde el primer día
 - **ISW1 → ISW2 → ASW**: Progresión por las disciplinas técnicas
@@ -135,9 +141,9 @@ Mundo Real → Caja Negra → Caja Blanca → Tecnología → Producción
 ### Desarrollo y web con base sólida
 
 - Al menos una asignatura de desarrollo por semestre.
-- **PW1 → PW2**: Desarrollo web después de estructuras y BBDD
-- Fundamentos técnicos antes de especialización
-- Aplicación práctica de principios teóricos
+- **PW1 → PW2**: Desarrollo web después de algoritmos, estructuras y BBDD.
+- Fundamentos técnicos antes de especialización.
+- Aplicación práctica de principios teóricos.
 
 ### Distribución balanceada
 
