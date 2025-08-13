@@ -90,6 +90,33 @@ Los conceptos se **revisitan y profundizan** a lo largo de la carrera.
 
 La complejidad se introduce **gradualmente** evitando sobrecarga cognitiva.
 
+### La senda
+
+El programa sigue la **progresión natural de las disciplinas del software**: una transición estructurada desde la comprensión del mundo real hasta la puesta en producción.
+
+```
+Mundo Real → Caja Negra → Caja Blanca → Tecnología → Producción
+     ↓            ↓            ↓            ↓            ↓
+  Dominio → Requisitos → Análisis → Diseño → Implementación → Despliegue
+```
+
+#### Filosofía de la disciplina
+
+> *"Software is sacred. Important things require ritual. One does not become a software master by learning a list of heuristics. Professionalism and mastery come from values that drive disciplines."*
+
+- **FPYSW**: Establece los valores y la disciplina desde el primer día
+- **ISW1 → ISW2 → ASW**: Progresión por las disciplinas técnicas
+- **PRY**: Gestión de proyectos y ecosistemas de desarrollo
+- **PRCT**: Despliegue en entornos reales de producción
+
+#### Disciplinas integradas
+
+|Técnicas|Soporte|
+|-|-|
+|Dominio → Requisitos → Análisis → Diseño → Implementación → Pruebas → Despliegue|Gestión del Proyecto + Gestión del Ecosistema|
+|**Secuenciales**: cada una construye sobre la anterior|**Paralelas**: apoyan todo el proceso|
+|De abstracto a concreto, de conceptual a tecnológico|Organización, liderazgo y herramientas colaborativas|
+
 ## Lo diferencial
 
 ### Ingeniería desde el día 0
