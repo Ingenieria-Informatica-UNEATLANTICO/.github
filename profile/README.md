@@ -7,7 +7,7 @@
 |80s|Hoy...|
 |-|-|
 |*En electrónica y en áreas relacionadas de la ingeniería, los conocimientos se duplican entre cada dos años y medio a tres años; así que diez años después de licenciarse, un ingeniero de 32 años se encuentra ejerciendo en un mundo en el que un 80% de los conocimientos que está utilizando han sido descubiertos después de licenciarse…*|*En las áreas más dinámicas de la ingeniería y la tecnología, el volumen de conocimiento práctico y relevante puede duplicarse en solo 12 a 18 meses —y en campos como la inteligencia artificial, en menos de un año—. Así, apenas una década después de graduarse, un ingeniero se encuentra trabajando con un conjunto de herramientas, tecnologías y procedimientos de los cuales más del 80 % no existían, o no tenían uso generalizado, el año en que terminó su formación universitaria.*
-|— [Frank R Hartley, Cranfield Institute of Technology](https://en.wikipedia.org/wiki/Frank_Robinson_Hartley)|[Justificación](cambioConocimientoTecnico.md)
+|<div align=right>[*Frank R Hartley, Cranfield Institute of Technology*](https://en.wikipedia.org/wiki/Frank_Robinson_Hartley)</div>|<div align=right>[*Justificación*](cambioConocimientoTecnico.md)</div>
 
 </div>
 
@@ -22,8 +22,8 @@
 
 Este grado surge de nuestra experiencia y de una **reflexión crítica sobre la educación en ingeniería informática**, identificando y abordando los problemas actuales del sector educativo.
 
-- [Reflexión previa: Problemas identificados](reflexion.md)
-- [Responsabilidades compartidas en el proceso educativo](responsabilidad.md)
+- [Problemas identificados](reflexion.md): sin estructura, sin unicidad, con el vocabulario inadecuado, sin teoría, sin práctica... ¡Sin cuidado!
+- [Responsabilidades compartidas en el proceso educativo](responsabilidad.md): del que imparte, del que recibe la formación y de ambos.
 
 ## ¿Qué?
 
@@ -31,7 +31,7 @@ Este grado surge de nuestra experiencia y de una **reflexión crítica sobre la 
 
 |Ciencias de la computación|Ingeniería de ordenadores|Tecnologías de la información|**Ingeniería de software**|Sistemas de información|
 |-|-|-|-|-|
-|Fundamentos científicos y técnicos para el diseño de soluciones a los retos de computación|Diseñar ordenadores y dispositivos digitales que integran hardware, software y comunicaciones.|Diseñar e instalar la infraestructura informática necesaria para satisfacer, de forma segura, las necesidades de las organizaciones.|**Construir sistemas software gestionando las personas, los recursos y las etapas del proyecto.**|Enlazar los ámbitos técnicos y de gestión para mejorar los procesos de las organizaciones con el uso de las TIC.|
+|Fundamentos científicos y técnicos para el diseño de soluciones a los retos de computación|Diseñar ordenadores y dispositivos digitales que integran hardware, software y comunicaciones.|Diseñar e instalar la infraestructura informática necesaria para satisfacer, de forma segura, las necesidades de las organizaciones.|**Construir sistemas basados en software, gestionando las personas, los recursos y las etapas del proyecto.**|Enlazar los ámbitos técnicos y de gestión para mejorar los procesos de las organizaciones con el uso de las TIC.|
 
 <div align=center>
 
@@ -56,10 +56,12 @@ La formación en Ingeniería Informática prepara a los estudiantes para:
 
 ## ¿Cómo?
 
+### Nuestra respuesta: Ingeniería desde el primer día
+
 |Ingeniería|Desarrollo|Construcción|Conexión|
 |-|-|-|-|
 |*Fundamentos científicos y matemáticos*|*Competencias técnicas*|*Metodologías y gestión profesional*|*Contexto y transversalidad*
-|Base sólida para razonamiento lógico y resolución de problemas|Programación, estructuras de datos, bases de datos, desarrollo web|Ingeniería y arquitectura de software, gestión de proyectos|Teoría computacional, tecnologías emergentes, ética, idiomas
+|Base sólida para razonamiento lógico y resolución de problemas|Programación, estructuras de datos, bases de datos, desarrollo web|Ingeniería y arquitectura de software, gestión de proyectos|Teoría computacional, tecnologías emergentes, comunicación, ética, idiomas
 |Matemáticas, física, estadística, métodos numéricos, redes|Habilidades prácticas de construcción de software|Cómo organizar, planificar y liderar desarrollos complejos|Cultura general informática y habilidades complementarias
 |El cimiento científico que sostiene todo lo demás|Las herramientas directas para crear tecnología|El pensamiento sistémico para gestionar la complejidad|El pegamento que conecta la técnica con el contexto profesional
 
