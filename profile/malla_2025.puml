@@ -1,0 +1,273 @@
+@startuml
+
+hide circle
+
+skinparam packageStyle frame
+
+package Informatica as "Ingeniería informática" {
+
+    package IV as "Cuarto curso" {
+        package s2 as "Segundo semestre" {
+            class TFG #4CAF50 {
+                <sub><i><<ProyectoFinal>></i></sub>
+                ---
+                <sub>12 créditos</sub>
+            }
+            class DSI #FFFF99 {
+                <sub><i><<Conexion>></i></sub>
+                ---
+                <sub>6 créditos</sub>
+            }
+            class EEE #FFFF99 {
+                <sub><i><<Conexion>></i></sub>
+                ---
+                <sub>6 créditos</sub>
+            }
+            class OPT4 #FFFFFF {
+                <sub><i><<Optativa>></i></sub>
+                ---
+                <sub>6 créditos</sub>
+            }
+        }
+        package s1 as "Primer semestre" {
+            class SDPP #CDDC39 {
+                <sub><i><<Desarrollo>></i></sub>
+                ---
+                <sub>6 créditos</sub>
+            }
+            class INTA #CDDC39 {
+                <sub><i><<Desarrollo>></i></sub>
+                ---
+                <sub>6 créditos</sub>
+            }
+            class PRY #A5D6A7 {
+                <sub><i><<Construccion>></i></sub>
+                ---
+                <sub>6 créditos</sub>
+            }
+            class PRCT #FFFF99 {
+                <sub><i><<Conexion>></i></sub>
+                ---
+                <sub>6 créditos</sub>
+            }
+            class OPT3 #FFFFFF {
+                <sub><i><<Optativa>></i></sub>
+                ---
+                <sub>6 créditos</sub>
+            }
+        }
+    }
+
+    package III as "Tercer curso" {
+        package s2 as "Segundo semestre" {
+            class PW2 #CDDC39 {
+                <sub><i><<Desarrollo>></i></sub>
+                ---
+                <sub>6 créditos</sub>
+            }
+            class SICR #CDDC39 {
+                <sub><i><<Desarrollo>></i></sub>
+                ---
+                <sub>6 créditos</sub>
+            }
+            class ASW #A5D6A7 {
+                <sub><i><<Construccion>></i></sub>
+                ---
+                <sub>6 créditos</sub>
+            }
+            class ING4 #FFFF99 {
+                <sub><i><<Conexion>></i></sub>
+                ---
+                <sub>6 créditos</sub>
+            }
+            class OPT2 #FFFFFF {
+                <sub><i><<Optativa>></i></sub>
+                ---
+                <sub>6 créditos</sub>
+            }
+        }
+        package s1 as "Primer semestre" {
+            class PW1 #CDDC39 {
+                <sub><i><<Desarrollo>></i></sub>
+                ---
+                <sub>6 créditos</sub>
+            }
+            class ETI #FFFF99 {
+                <sub><i><<Conexion>></i></sub>
+                ---
+                <sub>6 créditos</sub>
+            }
+            class ISW2 #A5D6A7 {
+                <sub><i><<Construccion>></i></sub>
+                ---
+                <sub>6 créditos</sub>
+            }
+            class ING3 #FFFF99 {
+                <sub><i><<Conexion>></i></sub>
+                ---
+                <sub>6 créditos</sub>
+            }
+            class OPT1 #FFFFFF {
+                <sub><i><<Optativa>></i></sub>
+                ---
+                <sub>6 créditos</sub>
+            }
+        }
+    }
+
+    package II as "Segundo curso" {
+        package s2 as "Segundo semestre" {
+            class EDA2 #CDDC39 {
+                <sub><i><<Desarrollo>></i></sub>
+                ---
+                <sub>6 créditos</sub>
+            }
+            class BD2 #CDDC39 {
+                <sub><i><<Desarrollo>></i></sub>
+                ---
+                <sub>6 créditos</sub>
+            }
+            class ISW1 #A5D6A7 {
+                <sub><i><<Construccion>></i></sub>
+                ---
+                <sub>6 créditos</sub>
+            }
+            class SOP #FFFF99 {
+                <sub><i><<Conexion>></i></sub>
+                ---
+                <sub>6 créditos</sub>
+            }
+            class LPR #FFFF99 {
+                <sub><i><<Conexion>></i></sub>
+                ---
+                <sub>6 créditos</sub>
+            }
+        }
+        package s1 as "Primer semestre" {
+            class EDA1 #CDDC39 {
+                <sub><i><<Desarrollo>></i></sub>
+                ---
+                <sub>6 créditos</sub>
+            }
+            class BD1 #CDDC39 {
+                <sub><i><<Desarrollo>></i></sub>
+                ---
+                <sub>6 créditos</sub>
+            }
+            class MNUM #4CAF50 {
+                <sub><i><<Ingenieria>></i></sub>
+                ---
+                <sub>6 créditos</sub>
+            }
+            class RED #4CAF50 {
+                <sub><i><<Ingenieria>></i></sub>
+                ---
+                <sub>6 créditos</sub>
+            }
+            class EST #4CAF50 {
+                <sub><i><<Ingenieria>></i></sub>
+                ---
+                <sub>6 créditos</sub>
+            }
+        }
+    }
+
+    package I as "Primer curso" {
+        package s2 as "Segundo semestre" {
+            class PRG2 #CDDC39 {
+                <sub><i><<Desarrollo>></i></sub>
+                ---
+                <sub>6 créditos</sub>
+            }
+            class TIC #FFFF99 {
+                <sub><i><<Conexion>></i></sub>
+                ---
+                <sub>6 créditos</sub>
+            }
+            class LOG #4CAF50 {
+                <sub><i><<Ingenieria>></i></sub>
+                ---
+                <sub>6 créditos</sub>
+            }
+            class MAT2 #4CAF50 {
+                <sub><i><<Ingenieria>></i></sub>
+                ---
+                <sub>6 créditos</sub>
+            }
+            class MDISC #4CAF50 {
+                <sub><i><<Ingenieria>></i></sub>
+                ---
+                <sub>6 créditos</sub>
+            }
+        }
+        package s1 as "Primer semestre" {
+            class PRG1 #CDDC39 {
+                <sub><i><<Desarrollo>></i></sub>
+                ---
+                <sub>6 créditos</sub>
+            }
+            class TEO #FFFF99 {
+                <sub><i><<Conexion>></i></sub>
+                ---
+                <sub>6 créditos</sub>
+            }
+            class FPYSW #A5D6A7 {
+                <sub><i><<Construccion>></i></sub>
+                ---
+                <sub>6 créditos</sub>
+            }
+            class MAT1 #4CAF50 {
+                <sub><i><<Ingenieria>></i></sub>
+                ---
+                <sub>6 créditos</sub>
+            }
+            class FIS #4CAF50 {
+                <sub><i><<Ingenieria>></i></sub>
+                ---
+                <sub>6 créditos</sub>
+            }
+        }
+    }
+
+}
+
+PRG1 -[hidden]d- TEO
+TEO -[hidden]d- FPYSW
+FPYSW  -[hidden]d- MAT1
+MAT1  -[hidden]d-  FIS
+
+PRG2  -[hidden]d- TIC
+TIC  -[hidden]d- LOG
+LOG  -[hidden]d- MAT2
+MAT2  -[hidden]d- MDISC
+
+EDA1 -[hidden]d- BD1
+BD1 -[hidden]d- MNUM
+MNUM -[hidden]d- RED
+RED -[hidden]d- EST
+
+EDA2 -[hidden]d- BD2
+BD2 -[hidden]d- ISW1
+ISW1 -[hidden]d- SOP
+SOP -[hidden]d- LPR
+
+PW1 -[hidden]d- ETI
+ETI -[hidden]d- ISW2
+ISW2 -[hidden]d- ING3
+ING3 -[hidden]d- OPT1
+
+PW2 -[hidden]d- SICR
+SICR -[hidden]d- ASW
+ASW -[hidden]d- ING4
+ING4 -[hidden]d- OPT2
+
+SDPP -[hidden]d- INTA
+INTA -[hidden]d- PRY
+PRY -[hidden]d- PRCT
+PRCT -[hidden]d- OPT3
+
+TFG -[hidden]d-- DSI
+DSI -[hidden]d- EEE
+EEE -[hidden]d- OPT4
+
+@enduml
