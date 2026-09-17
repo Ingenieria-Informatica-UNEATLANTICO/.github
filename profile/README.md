@@ -16,8 +16,11 @@ Esta ventana de obsolescencia es la premisa del diseño curricular que sigue: lo
 ### Principios rectores
 
 - "Copiar código de internet y pegarlo en un sistema para producción es como usar un chicle encontrado en la calle" — [Mike Johnson](https://en.wikipedia.org/wiki/Mike_Johnson_(technologist))
+
 - "El reto principal de los científicos informáticos es no confundirse con la complejidad de su propia creación" — [E. W. Dijkstra](https://es.wikipedia.org/wiki/Edsger_Dijkstra)
+
 - "Primero resuelve el problema. Entonces, escribe el código" — *John Johnson / John Doe / Fulano de Tal / (?)*
+
 - "Hay únicamente dos problemas realmente duros en informática: el primero es la [invalidación de cachés](https://surfingcomplexity.blog/2022/11/25/cache-invalidation-really-is-one-of-the-hardest-things-in-computer-science/), y el segundo darles nombres apropiados a las cosas" — [Phil Karlton, Netscape](https://www.karlton.org/karlton/)
 
 ### Reflexión
@@ -25,6 +28,7 @@ Esta ventana de obsolescencia es la premisa del diseño curricular que sigue: lo
 Este grado surge de nuestra experiencia y de una **reflexión crítica sobre la educación en ingeniería informática**, identificando y abordando los problemas actuales del sector educativo.
 
 - [Problemas identificados](reflexion.md): sin estructura, sin unicidad, con el vocabulario inadecuado, sin teoría, sin práctica... ¡Sin cuidado!
+
 - [Responsabilidades compartidas en el proceso educativo](responsabilidad.md): del que imparte, del que recibe la formación y de ambos.
 
 ## ¿Qué?
@@ -51,9 +55,13 @@ Formamos ingenieros de software: profesionales capaces de **construir sistemas c
 La formación en Ingeniería Informática prepara a los estudiantes para:
 
 - **Desarrollar soluciones tecnológicas efectivas** con pensamiento sistémico
+
 - **Gestionar proyectos de software complejos** usando metodologías modernas
+
 - **Analizar y optimizar sistemas de información** a gran escala
+
 - **Liderar equipos técnicos** en entornos de cambio constante
+
 - **Adaptarse a nuevas tecnologías** con fundamentos sólidos
 
 ## ¿Cómo?
@@ -80,8 +88,11 @@ El programa implementa una **progresión pedagógica** basada en los principios 
 Cada nivel construye sobre el anterior con conexiones explícitas:
 
 1. **Fundamentos** → Disciplinas del software (FPYSW)
+
 2. **Organización** → Procesos de desarrollo (ISW1 → ISW2 → ASW)  
+
 3. **Aplicación** → Sistemas e infraestructura (PRG, EDA, BD)
+
 4. **Especialización** → Aplicaciones web y proyectos (PW1 → PW2 → TFG)
 
 ### Iteración
@@ -89,8 +100,11 @@ Cada nivel construye sobre el anterior con conexiones explícitas:
 Los conceptos se **revisitan y profundizan** a lo largo de la carrera.
 
 - **Año 1**: Introducción a fundamentos de software
+
 - **Año 2**: Estructuras de datos y metodologías
+
 - **Año 3**: Desarrollo web y arquitecturas
+
 - **Año 4**: Integración y especialización
 
 ### Incremento
@@ -118,8 +132,11 @@ El programa sigue la **progresión natural de las disciplinas del software**: un
 > *Uno no se convierte en un maestro del software aprendiendo una lista de heurísticas. El profesionalismo y la maestría provienen de valores que impulsan las disciplinas*
 
 - **FPYSW**: Establece los valores y la disciplina desde el primer día
+
 - **ISW1 → ISW2 → ASW**: Progresión por las disciplinas técnicas
+
 - **PRY**: Gestión de proyectos y ecosistemas de desarrollo
+
 - **PRCT**: Despliegue en entornos reales de producción
 
 #### Disciplinas integradas
@@ -135,28 +152,39 @@ El programa sigue la **progresión natural de las disciplinas del software**: un
 ### Ingeniería desde el día 0
 
 - **FPYSW** (1er semestre): Rompe con el modelo tradicional "programación primero"
+
 - Visión sistémica desde el inicio del grado
+
 - Pensamiento ingenieril antes que técnico
 
 ### Metodologías distribuidas en el tiempo
 
 - **ISW1** (2º año): Fundamentos de ingeniería de software
+
 - **ISW2** (3º año): Metodologías avanzadas
+
 - **ASW**: Arquitecturas
+
 - Maduración progresiva de conceptos
 
 ### Desarrollo y web con base sólida
 
 - Al menos una asignatura de desarrollo por semestre.
+
 - **PW1 → PW2**: Desarrollo web después de algoritmos, estructuras y BBDD.
+
 - Fundamentos técnicos antes de especialización.
+
 - Aplicación práctica de principios teóricos.
 
 ### Distribución balanceada
 
 - **30% Ingeniería**: Base científica sólida (MAT, FIS, EST, RED)
+
 - **30% Desarrollo**: Competencias técnicas core (PRG, EDA, BD, PW)
+
 - **25% Construcción**: Metodologías profesionales (FPYSW, ISW, ASW, PRY)
+
 - **15% Conexión**: Transversalidad y contexto (TEO, TIC, SOP, LPR, ETI, ING)
 
 ### Metodología
@@ -164,14 +192,19 @@ El programa sigue la **progresión natural de las disciplinas del software**: un
 #### Responsabilidades compartidas
 
 - **Docente**: Diseño curricular coherente, calidad pedagógica, recursos adecuados
+
 - **Estudiante**: Compromiso activo, autoaprendizaje, aplicación práctica
+
 - **Institución**: Diálogo bidireccional, adaptabilidad, cultura de innovación
 
 #### Prácticas integradas
 
 - **Laboratorios**: Aplicación de conceptos teóricos
+
 - **Proyectos en equipo**: Simulación de entornos profesionales reales
+
 - **PRCT** (4º curso): Prácticas empresariales integradas en curriculum
+
 - **TFG robusto**: 12 créditos para síntesis completa de competencias
 
 ### Especializaciones
