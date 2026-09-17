@@ -11,6 +11,8 @@
 
 </div>
 
+Esta ventana de obsolescencia es la premisa del diseño curricular que sigue: los fundamentos científicos y metodológicos se mantienen estables durante décadas; las herramientas y tecnologías concretas no. Por eso el grado prioriza fundamentos duraderos sobre tecnologías específicas, e introduce cada herramienta como aplicación de esos fundamentos, no como punto de partida.
+
 ### Principios rectores
 
 - "Copiar código de internet y pegarlo en un sistema para producción es como usar un chicle encontrado en la calle" — [Mike Johnson](https://en.wikipedia.org/wiki/Mike_Johnson_(technologist))
@@ -40,7 +42,7 @@ Este grado surge de nuestra experiencia y de una **reflexión crítica sobre la 
 
 </div>
 
-Ingenieros informáticos capaces de **liderar la transformación digital** con una sólida base científica y metodológica.
+Formamos ingenieros de software: profesionales capaces de **construir sistemas completos, no solo escribir código**, gestionando personas, recursos y las etapas del proyecto de principio a fin. La base científica y metodológica es lo que sostiene esa capacidad cuando cambian las tecnologías concretas.
 
 ## ¿Para qué?
 
