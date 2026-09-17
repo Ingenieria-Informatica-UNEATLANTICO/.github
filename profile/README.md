@@ -15,7 +15,7 @@ Esta ventana de obsolescencia es la premisa del diseño curricular que sigue: lo
 
 ### Principios rectores
 
-- "Copiar código de internet y pegarlo en un sistema para producción es como usar un chicle encontrado en la calle" — [Mike Johnson](https://en.wikipedia.org/wiki/Mike_Johnson_(technologist))
+- "Copiar código de internet y pegarlo en un sistema para producción es como usar un chicle encontrado en la calle" — *Mike Johnson (atribución habitual, sin fuente verificada)*
 
 - "El reto principal de los científicos informáticos es no confundirse con la complejidad de su propia creación" — [E. W. Dijkstra](https://es.wikipedia.org/wiki/Edsger_Dijkstra)
 
