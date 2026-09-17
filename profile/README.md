@@ -4,10 +4,10 @@
 
 <div align=center>
 
-|80s|Hoy...|
+|2002|Hoy|
 |-|-|
-|*En electrónica y en áreas relacionadas de la ingeniería, los conocimientos se duplican entre cada dos años y medio a tres años; así que diez años después de licenciarse, un ingeniero de 32 años se encuentra ejerciendo en un mundo en el que un 80% de los conocimientos que está utilizando han sido descubiertos después de licenciarse…*|*En las áreas más dinámicas de la ingeniería y la tecnología, el volumen de conocimiento práctico y relevante puede duplicarse en solo 12 a 18 meses —y en campos como la inteligencia artificial, en menos de un año—. Así, apenas una década después de graduarse, un ingeniero se encuentra trabajando con un conjunto de herramientas, tecnologías y procedimientos de los cuales más del 80 % no existían, o no tenían uso generalizado, el año en que terminó su formación universitaria.*
-|<div align=right>[*Frank R Hartley, Cranfield Institute of Technology*](https://en.wikipedia.org/wiki/Frank_Robinson_Hartley)</div>|<div align=right>[*Justificación*](cambioConocimientoTecnico.md)</div>
+|*El presidente de la National Academy of Engineering estimó que la vida media del conocimiento de ingeniería, el tiempo en que la mitad de lo aprendido en la carrera queda obsoleto, estaba entre dos años y medio y siete años.*|*En las áreas más dinámicas de la ingeniería y la tecnología, esa vida media es hoy sensiblemente más corta: en software e inteligencia artificial, del orden de meses, según la percepción extendida en la industria. Así, apenas una década después de graduarse, un ingeniero se encuentra trabajando con herramientas y tecnologías que en su mayoría no existían, o no tenían uso generalizado, el año en que terminó su formación.*
+|<div align=right>[*William A. Wulf, presidente de la National Academy of Engineering (discurso ASEE, 2002)*](https://en.wikipedia.org/wiki/William_Wulf)</div>|<div align=right>[*Justificación*](cambioConocimientoTecnico.md)</div>
 
 </div>
 
