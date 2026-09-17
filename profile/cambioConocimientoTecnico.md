@@ -19,3 +19,5 @@
 - Hoy, en subcampos como **IA aplicada a la ingeniería**, el ciclo es inferior a un año.  
 - El ritmo de cambio es desigual: los fundamentos básicos duran décadas, pero las *herramientas* y *tecnologías* se renuevan muy rápido.  
 - Esto implica que un ingeniero que se licencie hoy, diez años después, verá que más del **80–90 %** de las tecnologías que usa no existían o estaban en pañales el año de su graduación.  
+
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>

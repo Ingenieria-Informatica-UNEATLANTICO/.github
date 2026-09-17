@@ -266,3 +266,5 @@ Cada problema identificado se aborda con:
 |**Metodológica**|Sin alternativas → **CON alternativas** | Pensamiento crítico y creativo|
 |**Adaptativa**|Sin evolución → **CON evolución** | Adaptabilidad y aprendizaje continuo|
 |**Escalabilidad**|Sin tamaño → **CON tamaño** | Gestión de complejidad real|
+
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>

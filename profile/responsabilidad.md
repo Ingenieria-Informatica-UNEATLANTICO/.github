@@ -17,3 +17,5 @@
 |Diálogo abierto|Adaptabilidad|Responsabilidad compartida|Aprendizaje continuo|Cultura de innovación|
 |-|-|-|-|-|
 |Fomentar la comunicación bidireccional para mejorar continuamente.|Tanto educadores como estudiantes deben estar dispuestos a adaptarse a nuevos métodos y tecnologías.|Reconocer que el éxito educativo es una responsabilidad compartida.|Ambas partes deben comprometerse con el aprendizaje a lo largo de la vida.|Fomentar un ambiente donde se valoren nuevas ideas y enfoques.|
+
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>

@@ -25,3 +25,5 @@
 ||Se sigue enseñando tecnologías obsoletas mientras se ignoran desarrollos importantes.|
 |**Sin tamaño**|Falta de énfasis en la escalabilidad y en cómo los conceptos se aplican a proyectos de diferentes tamaños.|
 ||Los estudiantes a menudo no están preparados para manejar la complejidad de los grandes sistemas de software del mundo real.|
+
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>

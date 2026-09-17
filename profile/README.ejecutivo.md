@@ -169,3 +169,5 @@ Este grado surge de una **reflexión crítica sistemática** sobre los problemas
 - [**Análisis de problemas identificados**](reflexion.md): 12 deficiencias críticas en la formación actual
 - [**Transformaciones implementadas**](accion.md): Cómo cada problema se convierte en solución específica
 - [**Responsabilidades del proceso educativo**](responsabilidad.md): Compromisos de todos los actores
+
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
