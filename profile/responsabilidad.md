@@ -2,15 +2,15 @@
 
 ## Del que imparte
 
-|Diseño del curriculum|Calidad de la enseñanza|Evaluación|Recursos|Motivación|
+|Diseño del curriculum|Calidad de la enseñanza|Evaluación|Recursos|Relevancia|
 |-|-|-|-|-|
-|Estructurar un programa coherente y actualizado.|Presentar el material de manera clara y efectiva.|Diseñar evaluaciones justas y relevantes.|Proporcionar materiales y herramientas de aprendizaje adecuados.|Inspirar interés y pasión por la materia.|
+|Estructurar un programa coherente y actualizado.|Presentar el material de manera clara y efectiva.|Diseñar evaluaciones justas y relevantes.|Proporcionar materiales y herramientas de aprendizaje adecuados.|Mostrar la relevancia y aplicación práctica de la materia.|
 
 ## Del que recibe la formación
 
 |Compromiso|Participación activa|Autoaprendizaje|Aplicación práctica|Retroalimentación|
 |-|-|-|-|-|
-|Dedicar tiempo y esfuerzo al estudio y la práctica.|Involucrarse en clases, hacer preguntas, buscar aclaraciones.|Investigar más allá del material proporcionado.|Buscar oportunidades para aplicar lo aprendido.|Proporcionar feedback constructivo sobre el proceso de aprendizaje.|
+|Dedicar tiempo y esfuerzo al estudio y la práctica, con la disposición a esforzarse independientemente del estilo de cada profesor.|Involucrarse en clases, hacer preguntas, buscar aclaraciones.|Investigar más allá del material proporcionado.|Buscar oportunidades para aplicar lo aprendido.|Proporcionar feedback constructivo sobre el proceso de aprendizaje.|
 
 ## De ambos
 
