@@ -65,7 +65,9 @@ Por su parte, la web de la universidad recoge como salidas profesionales princip
 - Diseñador web.
 - Desarrollador de aplicaciones móviles.
 
-Si consideramos las salidas profesionales delimitadas, claramente el perfil más representado sería el de Desarrollo de software (dirección de centros de desarrollo; diseño, dirección y gestión de proyectos de software; arquitectura de software; desarrollo web y de aplicaciones móviles; usabilidad), seguido del de Gestión y explotación de las tecnologías de la información (dirección de informática). El perfil de Sistemas carece de una salida explícita, mientras que las salidas de especialista SEO y community manager no se corresponden con ninguno de los tres perfiles del *Libro Blanco* ni con la orientación a la ingeniería del software que el grado ha consolidado. **[Pendiente: vincular con los resultados de la revisión del perfil de egreso por parte de los empleadores, una vez disponibles.]**
+Si consideramos las salidas profesionales delimitadas, claramente el perfil más representado sería el de Desarrollo de software (dirección de centros de desarrollo; diseño, dirección y gestión de proyectos de software; arquitectura de software; desarrollo web y de aplicaciones móviles; usabilidad), seguido del de Gestión y explotación de las tecnologías de la información (dirección de informática). El perfil de Sistemas carece de una salida explícita, mientras que las salidas de especialista SEO y community manager no se corresponden con ninguno de los tres perfiles del *Libro Blanco* ni con la orientación a la ingeniería del software que el grado ha consolidado. 
+
+> **[2DO: vincular con los resultados de la revisión del perfil de egreso por parte de los empleadores, una vez disponibles.]**
 
 No obstante, si bien se considera el *Libro Blanco* de la ANECA como un elemento fundamental para el diseño del grado, es importante profundizar en otros estudios que se han venido desarrollando en estos últimos años. El documento de ANECA data de 2005 y es anterior a la implantación de los grados del Espacio Europeo de Educación Superior; en las dos décadas transcurridas se han consolidado ámbitos enteros (computación en la nube, DevOps, ciencia de datos, ciberseguridad o inteligencia artificial generativa) que no podía contemplar.
 
@@ -89,7 +91,9 @@ Por último, se presentó al claustro la documentación propia de la Dirección 
 
 En general, los diferentes estudios anteriormente mencionados reflejan la necesidad de formar ingenieros con fundamentos sólidos y duraderos, capaces de ejercer juicio técnico sobre sistemas completos (concebirlos, diseñarlos, revisarlos, asegurarlos y operarlos) en un entorno en el que la generación de código se automatiza de forma creciente y en el que la responsabilidad técnica sobre lo producido no se delega. La competencia diferencial del egresado se desplaza de la producción de código a su comprensión, verificación y justificación.
 
-Tras el análisis de la documentación pertinente el claustro docente procede a intervenir. **[Pendiente: recoger las intervenciones del claustro tras la lectura del presente documento.]**
+Tras el análisis de la documentación pertinente el claustro docente procede a intervenir. 
+
+> **[2DO: recoger las intervenciones del claustro tras la lectura del presente documento.]**
 
 ### 3. Revisión de la vigencia y relevancia del título
 
